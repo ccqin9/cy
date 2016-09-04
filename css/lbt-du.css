@@ -1,0 +1,96 @@
+
+.lay_tj {
+    /*overflow: hidden;*/
+}
+
+.lay_tj .lay_con {
+    position: relative;
+    width: 1200px;
+    overflow: hidden;
+}
+
+.lay_tj #czimg {
+    width: 9999px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.lay_tj ul {
+    width: 1220px;
+    overflow: hidden;
+    float: left;
+}
+
+.lay_tj .lay_con {
+    height: 300px;
+    margin-left:200px;
+    overflow: hidden;
+}
+
+.lay_tj ul li {
+    float: left;
+    width: 230px;
+    height: 280px;
+    overflow: hidden;
+    border: 1px solid #E0E0E0;
+    background: #fff;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.lay_tj ul li:hover {
+    border-color: #0099E5;
+}
+
+.lay_tj ul li .img_box {
+    /*height: 135px;*/
+    /*padding: 10px 0 40px 0;*/
+    overflow: hidden;
+    margin-top:15px;
+}
+
+.lay_tj ul li a img {
+    display: inline-block;
+
+}
+
+.lay_tj .hd_rr span:hover {
+    color: #0099E5;
+}
+
+.lay_tj .hd_rr span.cur {
+    color: #BDC1CA;
+}
+
+.lay_tj .hd_rr span {
+    display: block;
+    float: left;
+    width: 36px;
+    height: 21px;
+    border: 1px solid #E0E0E0;
+    text-align: center;
+    line-height: 21px;
+    margin-left: -1px;
+    cursor: pointer;
+    color: #E0E0E0;
+}
+
+.lay_tj .hd_rr span:hover {
+    color: #0099E5;
+}
+
+.lay_tj .hd_rr span.cur {
+    color: #BDC1CA;
+}
+
+div .hd_rr{
+    margin-left:1220px;
+}
+div .hd_tt{
+    margin-left:1220px;
+}
+
+
+
+
